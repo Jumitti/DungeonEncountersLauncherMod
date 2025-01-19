@@ -1,0 +1,7 @@
+{
+    "name": "DEMapGenerator",
+    "activable": false,
+    "enabled": true,
+    "replacement_folder": "seed",
+    "compatible_items": false
+}

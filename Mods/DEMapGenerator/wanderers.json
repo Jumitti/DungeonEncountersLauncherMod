@@ -1,0 +1,350 @@
+{
+    "Character 1": {
+        "name": "Sesspare",
+        "other_name": [
+            "Sesspare"
+        ],
+        "coord": [
+            [
+                0,
+                36,
+                32
+            ]
+        ],
+        "color": [
+            128,
+            30,
+            30
+        ],
+        "description": [],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 2": {
+        "name": "Shunga",
+        "other_name": [
+            "Shunga"
+        ],
+        "coord": [
+            [
+                0,
+                46,
+                55
+            ]
+        ],
+        "color": [
+            202,
+            57,
+            205
+        ],
+        "description": [],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 3": {
+        "name": "Rodovich",
+        "other_name": [
+            "Rodovich"
+        ],
+        "coord": [
+            [
+                2,
+                92,
+                93
+            ]
+        ],
+        "color": [
+            101,
+            37,
+            102
+        ],
+        "description": [],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 4": {
+        "name": "Gracia",
+        "other_name": [
+            "Gracia"
+        ],
+        "coord": [
+            [
+                8,
+                59,
+                39
+            ]
+        ],
+        "color": [
+            31,
+            138,
+            152
+        ],
+        "description": [],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 5": {
+        "name": "McAllie",
+        "other_name": [
+            "McAllie"
+        ],
+        "coord": [
+            [
+                12,
+                53,
+                16
+            ]
+        ],
+        "color": [
+            118,
+            111,
+            108
+        ],
+        "description": [],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 6": {
+        "name": "Ilbertha",
+        "other_name": [
+            "Ilbertha"
+        ],
+        "coord": [
+            [
+                16,
+                29,
+                33
+            ]
+        ],
+        "color": [
+            66,
+            123,
+            124
+        ],
+        "description": [],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 7": {
+        "name": "Nalpurna",
+        "other_name": [
+            "Nalpurna"
+        ],
+        "coord": [
+            [
+                22,
+                21,
+                53
+            ]
+        ],
+        "color": [
+            45,
+            208,
+            76
+        ],
+        "description": [],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 8": {
+        "name": "Jufren",
+        "other_name": [
+            "Jufren"
+        ],
+        "coord": [
+            [
+                27,
+                91,
+                33
+            ]
+        ],
+        "color": [
+            72,
+            187,
+            209
+        ],
+        "description": [],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 9": {
+        "name": "Houk Gau",
+        "other_name": [
+            "Houk Gau"
+        ],
+        "coord": [
+            [
+                34,
+                35,
+                84
+            ]
+        ],
+        "color": [
+            4,
+            242,
+            156
+        ],
+        "description": [
+            "Can equip Katana and Chirijisayagata"
+        ],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 10": {
+        "name": "Modenali",
+        "other_name": [
+            "Modenali"
+        ],
+        "coord": [
+            [
+                39,
+                42,
+                75
+            ]
+        ],
+        "color": [
+            115,
+            75,
+            221
+        ],
+        "description": [
+            "Cannot equip magic"
+        ],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 11": {
+        "name": "Jorath",
+        "other_name": [
+            "Jorath"
+        ],
+        "coord": [
+            [
+                43,
+                48,
+                18
+            ]
+        ],
+        "color": [
+            7,
+            60,
+            115
+        ],
+        "description": [],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 12": {
+        "name": "K-2000",
+        "other_name": [
+            "K-2000"
+        ],
+        "coord": [
+            [
+                49,
+                34,
+                88
+            ]
+        ],
+        "color": [
+            95,
+            113,
+            223
+        ],
+        "description": [
+            "Can equip mechanical parts (Excavator, De-energizer, Steel Plating, Graphene Webbing). Cannot equip magic"
+        ],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 13": {
+        "name": "Ntleyana",
+        "other_name": [
+            "Ntleyana"
+        ],
+        "coord": [
+            [
+                52,
+                68,
+                39
+            ]
+        ],
+        "color": [
+            125,
+            116,
+            220
+        ],
+        "description": [
+            "Can equip ROM, for some reason"
+        ],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 14": {
+        "name": "Sir Cat",
+        "other_name": [
+            "Sir Cat"
+        ],
+        "coord": [
+            [
+                58,
+                41,
+                41
+            ]
+        ],
+        "color": [
+            248,
+            177,
+            41
+        ],
+        "description": [
+            "Can equip Meowitzer and Cutlery Set"
+        ],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 15": {
+        "name": "Auyue",
+        "other_name": [
+            "Auyue"
+        ],
+        "coord": [
+            [
+                61,
+                45,
+                50
+            ]
+        ],
+        "color": [
+            161,
+            176,
+            183
+        ],
+        "description": [],
+        "uses": [],
+        "ap_cost": []
+    },
+    "Character 16": {
+        "name": "Valtoro",
+        "other_name": [
+            "Valtoro"
+        ],
+        "coord": [
+            [
+                78,
+                77,
+                19
+            ]
+        ],
+        "color": [
+            193,
+            126,
+            62
+        ],
+        "description": [
+            "Can equip Dragon Whisker and Megamalafluxare, Dragon Scale and Lizard Scale. Cannot equip weapons"
+        ],
+        "uses": [],
+        "ap_cost": []
+    }
+}
