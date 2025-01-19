@@ -1,8 +1,3 @@
-pillow~=11.0.0
-pandas~=2.2.3
-scipy~=1.14.1
-matplotlib
-numpy~=2.2.1
-tqdm
-streamlit
-stqdm
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf4705241d870936f950c03406c8c48e8858daa0ca4678e30dcf23ec17ae3c87
+size 94

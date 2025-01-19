@@ -1,7 +1,3 @@
-{
-    "name": "DEMapGenerator",
-    "activable": false,
-    "enabled": true,
-    "replacement_folder": "seed",
-    "compatible_items": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:509e9135983c4cafd1ecd51ee95fa32212c2022b18f4a1975c59f34c6ec75013
+size 148
